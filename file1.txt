@@ -1,1 +1,3 @@
-feature 1
+ learning how to append to a file! 
+is it working
+ok but i didnt mean to end the line!
