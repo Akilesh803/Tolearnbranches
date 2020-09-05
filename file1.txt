@@ -1,3 +1,4 @@
  learning how to append to a file! 
 is it working
 ok but i didnt mean to end the line!
+feature big mistake
